@@ -15,6 +15,10 @@
 
 ---
 
+## Screenshot
+
+![geminicli.nvim screenshot](https://raw.githubusercontent.com/baldimario/geminicli/refs/heads/main/screenshot.png)
+
 ## Installation
 
 Use your favorite plugin manager. Example with [lazy.nvim](https://github.com/folke/lazy.nvim):
